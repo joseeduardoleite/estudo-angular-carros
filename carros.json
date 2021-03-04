@@ -1,0 +1,74 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "marca": "Mercedes-Benz",
+            "modelo": "C63 AMG",
+            "preco": 350000.0,
+            "oferta": false,
+            "precoOferta": 200000.0,
+            "imagem": "mercedesc63.jpg"
+        },
+        {
+            "id": 2,
+            "marca": "Mercedes-Benz",
+            "modelo": "CLS63 AMG",
+            "preco": 400000.0,
+            "oferta": true,
+            "precoOferta": 320000.0,
+            "imagem": "mercedescls63.jpg"
+        },
+        {
+            "id": 3,
+            "marca": "Mercedes-Benz",
+            "modelo": "C180",
+            "preco": 100000.0,
+            "oferta": false,
+            "precoOferta": 800000.0,
+            "imagem": "mercedesc180.jpg"
+        },
+        {
+            "id": 4,
+            "marca": "Ferrari",
+            "modelo": "488 GTB",
+            "preco": 1000000.0,
+            "oferta": false,
+            "precoOferta": 900000.0,
+            "imagem": "ferrarigtb.jpg"
+        },
+        {
+            "id": 5,
+            "marca": "Lamborghini",
+            "modelo": "Aventador",
+            "preco": 1500000.0,
+            "oferta": false,
+            "precoOferta": 1200000.0,
+            "imagem": "lamborghiniaventador.jpg"
+        },
+        {
+            "id": 6,
+            "marca": "Bugatti",
+            "modelo": "Chiron",
+            "preco": 3000000.0,
+            "oferta": true,
+            "precoOferta": 2800000.0,
+            "imagem": "bugattichiron.jpg"
+        },
+        {
+            "id": 7,
+            "marca": "Audi",
+            "modelo": "RS7",
+            "preco": 800000.0,
+            "oferta": true,
+            "precoOferta": 600000.0,
+            "imagem": "audirs7.jpg"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        }
+    ]
+}
